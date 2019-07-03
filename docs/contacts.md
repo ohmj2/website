@@ -1,6 +1,5 @@
 ---
-title: Contact FR
-description: We'd love to hear from you
+title: Contact
 ---
 
 Laissez nous un message:

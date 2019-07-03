@@ -1,4 +1,4 @@
 ---
-title: CONTACTS EN
+title: Contacts
 ---
 contacts en

@@ -1,5 +1,5 @@
 ---
-title: REPERTOIRE FR
+title: Repertoire
 ---
 
 # Repertoire

@@ -44,11 +44,11 @@ module.exports = {
       },
       "/en/": {
         nav: [
-          { text: "Introduction", link: "/en/introduction/" },
-          { text: "Concerts", link: "/en/concerts/" },
-          { text: "Repertoire", link: "/en/repertoire/" },
-          { text: "Contacts", link: "/en/contacts/" },
-          { text: "Press", link: "/en/press/" },
+          { text: "Introduction", link: "/en/introduction" },
+          { text: "Concerts", link: "/en/concerts" },
+          { text: "Repertoire", link: "/en/repertoire" },
+          { text: "Contacts", link: "/en/contacts" },
+          { text: "Press", link: "/en/press" },
           { text: "Musician", link: "http://ohmj2.free.fr/ohmj/" }
         ]
       }

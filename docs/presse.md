@@ -1,5 +1,5 @@
 ---
-title: PRESS FR
+title: Press
 ---
 # PRESS
  la presse FR

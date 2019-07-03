@@ -1,6 +1,5 @@
 ---
-title: Présentation FR
-description: Histoire de l'orchestre
+title: Présentation
 ---
 
 Créé en 1993, l'Orchestre d'Harmonie de Montpellier Jacou comporte aujourd'hui une cinquantaine de musiciens.
