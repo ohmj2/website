@@ -3,11 +3,11 @@ home: true
 heroImage: /images/vuejsradar.png
 features:
 - title: Point 1 
-  details: Ici on met des trucs 
+  details: we put some stuff here 
 - title: Point 2 
-  details: La, on en met d'autre 
+  details: extra infos 
 - title: Point 3
-  details: les flûtes sonnent faux. 
+  details: the flutes are bad. 
 footer: Copyright © 2019-present A.J.E.M | FB YTB
 title: FRONT PAGE
 ---
