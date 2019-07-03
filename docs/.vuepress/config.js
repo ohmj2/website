@@ -21,11 +21,11 @@ module.exports = {
     locales: {
       "/": {
         nav: [
-          { text: "Présentation", link: "/introduction/" },
-          { text: "Concerts", link: "/concerts/" },
-          { text: "Repertoire", link: "/repertoire/" },
-          { text: "Contacts", link: "/contacts/" },
-          { text: "Presse", link: "/presse/" },
+          { text: "Présentation", link: "/introduction" },
+          { text: "Concerts", link: "/concerts" },
+          { text: "Repertoire", link: "/repertoire" },
+          { text: "Contacts", link: "/contacts" },
+          { text: "Presse", link: "/presse" },
           { text: "Espace Musiciens", link: "http://ohmj2.free.fr/ohmj/" }
         ],
         // text for the language dropdown
