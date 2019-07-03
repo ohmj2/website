@@ -9,5 +9,5 @@ features:
 - title: Point 3
   details: les flûtes sonnent faux. 
 footer: Copyright © 2019-present A.J.E.M | FB YTB
-title: FRONT PAGE
+title: FRONT PAGE FR
 ---
