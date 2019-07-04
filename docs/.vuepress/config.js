@@ -1,4 +1,8 @@
 module.exports = {
+  head: [
+    ['meta', { name: 'keywords', content: 'musique, harmonie, ajem, ohmj, jacou, montpellier, instrument' }]
+  ],
+  extend: '@vuepress/theme-default',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
@@ -25,7 +29,6 @@ module.exports = {
           { text: "Concerts", link: "/concerts" },
           { text: "Repertoire", link: "/repertoire" },
           { text: "Contacts", link: "/contacts" },
-          { text: "Presse", link: "/presse" },
           { text: "Espace Musiciens", link: "http://ohmj2.free.fr/ohmj/" }
         ],
         // text for the language dropdown
@@ -48,7 +51,6 @@ module.exports = {
           { text: "Concerts", link: "/en/concerts" },
           { text: "Repertoire", link: "/en/repertoire" },
           { text: "Contacts", link: "/en/contacts" },
-          { text: "Press", link: "/en/press" },
           { text: "Musician", link: "http://ohmj2.free.fr/ohmj/" }
         ]
       }
