@@ -2,7 +2,7 @@ module.exports = {
   head: [
     ['meta', { name: 'keywords', content: 'musique, harmonie, ajem, ohmj, jacou, montpellier, instrument' }]
   ],
-  // extend: '@vuepress/theme-default',
+  extend: '@vuepress/theme-default',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
