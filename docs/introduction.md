@@ -20,6 +20,10 @@ Ouvert et dynamique, l'orchestre d'harmonie, avec ses deux
  formations (junior et classique), accueille tous les musiciens
  quelque soit leur niveau le jeudi soir à Jacou !
 
+L’Orchestre est une association régie par la loi 1901.
+
+
+
 La direction musicale
 
 Valéry Viné
@@ -63,7 +67,3 @@ Titulaire d’une licence musicologie, obtenue à l’université Jean
 
 En parallèle , elle enseigne la flûte traversière dans différentes
  associations aindinoises et montpelliéraines.
-
-
-
-L’Orchestre est une association régie par la loi 1901.
