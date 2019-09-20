@@ -8,8 +8,7 @@ module.exports = {
     "/": {
       lang: "fr-FR", // this will be set as the lang attribute on <html>
       title: "Orchestre d'Harmonie de Montpellier-Jacou",
-      description:
-        "Site de l'Harmonie de Montpellier-Jacou dans l'hérault (FRANCE)"
+      description: " "
     },
     "/en/": {
       lang: "en-US",
@@ -27,6 +26,8 @@ module.exports = {
           { text: "Présentation", link: "/introduction" },
           { text: "Concerts", link: "/concerts" },
           { text: "Repertoire", link: "/repertoire" },
+          { text: "Répétition", link: "/repetition" },
+          
           { text: "Contacts", link: "/contacts" },
           { text: "Espace Musiciens", link: "http://ohmj2.free.fr/ohmj/" }
         ],
