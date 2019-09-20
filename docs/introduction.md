@@ -24,9 +24,9 @@ L’Orchestre est une association régie par la loi 1901.
 
 
 
-La direction musicale
+# La direction musicale
 
-Valéry Viné
+## Valéry Viné
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
@@ -49,7 +49,7 @@ Depuis juin 2017, coordinateur du projet Démos Montpellier Métropole
 Formé à la direction d’orchestre il mènera divers projets d’ensembles,
  il est directeur musical de l’harmonie de Jacou depuis septembre 2017.
 
-Marie-Ange Thomassin
+## Marie-Ange Thomassin
 
 Musicienne passionnée et multi-instrumentiste (flûte traversière et
  basson), Marie-Ange débute l’apprentissage de la musique à 14 ans. Elle
