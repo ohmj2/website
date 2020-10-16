@@ -11,15 +11,20 @@ mise  en  relation  entre  les  professionnels,  les  amateurs,  les  élèves  
 
 Au carrefour de la pédagogie et de la diffusion, l’**OHMJ** accompagnera de la c**horale du collège Pierre Mendès France de Jacou **pour son concert de printemps. Attention, le programme sera Rock .
 
-Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, une vidéo dynamique pour continuer à mobiliser ses musiciens et rester proche de son public., puis par la suite, une adaptation des répétitions et des effectif . 
+Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, [une vidéo dynamique](https://www.facebook.com/OHMJ34/videos/706696563425850/) pour continuer à mobiliser ses musiciens et rester proche de son public., puis par la suite, une adaptation des répétitions et des effectif . 
 
-L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire, en témoigne sa  participation active aux cérémonies commémoratives et à la fête de la musique. Nous vous invitons donc à embarquer pour une aventure culturelle et musicale  avec  cette programmation  **2020*2021**, qui nou l’espérons va vous intriguer et même vous émerveiller.
+![](/docs/.vuepress/dist/clip-.jpg)
+
+L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire, en témoigne sa  participation active aux cérémonies commémoratives et à la fête de la musique. Nous vous invitons donc à embarquer pour une aventure culturelle et musicale  avec  cette programmation  **2020-2021**, qui nou l’espérons va vous intriguer et même vous émerveiller.
 
 
 
 ## CONCERTS
 
 * Samedi 7 Décembre 2019, Concert de la Sainte-Cécile, Salle Passerelle à Jacou
+
+![](/docs/.vuepress/dist/concert-st-cecile.jpg)
+
 * Dimanche 22 Mars 2020, Concert de Printemps, Salle Passerelle à Jacou
 * Samedi 21 Juin 2020, Fete de la Musique à Jacou
 
