@@ -178,3 +178,261 @@ Counterbalance 	/ Todd Stalter
 Nimrod 	/ Edward Elgar, Arr. Alfred Reed
 
 Golden Peak 	/ Thierry Deleruyelle
+
+Selection from Aladdin 	/ John Moss
+
+Theme from Schindler's List 	/ John Williams
+
+Jesus Christ Superstar 	/ Andrew Lloyd Webber
+
+An Américain in Paris 	/ Georges Gershwin
+
+Dances with Wolves 	/ John Barry
+
+La Strada 	/ Nino Rota
+
+Zoom sur Cosma 	/ Vladimir Cosma
+
+Le Roi Lion 	/ Elton John et Hans Zimmer
+
+Le fantôme de l'opéra 	/ Andrew Lloyd Webber
+
+Les Misérables 	/Claude-Michel Schönberg
+
+Evita 	/ Andrew Lloyd Webber
+
+Saturday night fever 	.
+
+Miss Saïgon 	/ Claude-Michel Schönberg
+
+Forest Gump suite 	/ alan Silvestri
+
+Moment for Morricone 	/ Ennio Morricone
+
+Pirates des caraïbes 	/ Klaus Badelt
+
+Robin des bois 	/ Mickael Kamer
+
+Sept ans au Thibet 	/ John Wiliams
+
+Pearl Harbor 	/ Hans Zimmmer
+
+Lawrence of Arabia 	/ Maurice Jarre
+
+Out Of Africa 	/ John Barry
+
+Jurassic Park Soundtrack Highlights 	/ John Williams
+
+La passerella di addio (8- 1/2) 	/ Nino Rota
+
+The Mask of zorro 	/ James Horner
+
+West Side Story 	/ Leornard Bernstein
+
+Alladin 	/ Alan Menken
+
+Pirates des Caraïbes 3 (au bout du mond 	Hans Zimmer art: Jay Bocook
+
+Music for a Darkened Theater 	/ Danny Elfman
+
+Gladiator 	/ Hanz Zimmer
+
+Complainte de Mackie (extrait de 	/ Kurt WEILL
+
+La vie est belle 	/ Nicola Piovani
+
+Mary Poppins 	/ Richard M. Sherman
+
+Avatar 	/ James Horner
+
+Backdraft 	/ Hans Zimmer
+
+The best of Henry Mancini 	arrangement / Johnnie Vinson
+
+Grease 	/ Warren Casey et Jim Jacobs
+
+Pinocchio 	/ Alex Poelman
+
+Limelight 	/ Terry Theme (Ch.Chaplin)
+
+The Bare Necessities 	/ Gilkyson T./Arr. P. Murtha
+
+Highlights from the Aristocats 	/ Suzanne Welters
+
+Marche Funèbre de la Marionette 	/ Charles Gounod
+
+L'homme qui savait 	/ David Champclos
+
+Games of Thrones 	/ Ramin Djawadi
+
+Liberty Bell (The) 	/ John Philip Sousa
+
+Avatar 	/ James Horner
+
+Rien à déclarer 	/ Philippe Rombi Arr. David Louis
+
+The Magnificent Seven (7 mercenaires) 	E Bernstein / Arr. R. Philippe
+
+Curious Case of Benjamin Button 	A Desplat / Arr. M. Brion
+
+La Panthère Rose 	/ Henry Mancini
+
+Les Simpsons 	/ Danny Elfman
+
+Bajo mi cielo andaluz 	/ C.Castellanos
+
+Libertango 	/ Astor Piazzola
+
+Blue Tango 	/ Leroy Anderson ,argt: Rundel Siegfried
+
+Los Miuras 	/ Fernando Penella
+
+Gallito 	/ Luis Salto
+
+El Gato Montès 	Manuel Penella
+
+Espana Cani 	/ Pascual Marquina
+
+Sevillana 	/ Désiré Dondeyne
+
+Adios Nonino 	/ Astor Piazzolla 
+
+Granada 	/ Garcia et F Salabert arr.G. Wittmann
+
+La Cucaracha 	/ Tata Nacho
+
+Islas Canarias (Iles Canaries) 	/ J. Tarridas
+
+Pepito Cha-Cha-Cha 	/ ARt Truscott et Carmen Taylor
+
+Primo Tango 	/ Fernand Tinturier
+
+Zanzibar 	/ Harms Evers
+
+La Marseillaise 	/ Claude Joseph ROUGET de LISLE
+
+Castles in spain 	/ Randy Beck
+
+Malaguena 	/ Ernesto Lecuona
+
+The breeze and I 	/ Ernesto Lecuona
+
+Brasiliana 	/ Jan Van der Roost
+
+El Cumbanchero 	/ Rafael Hernandez ; arr: Naohiro Iwai
+
+Camino del sol 	/ Steve Hodge
+
+Paquito 	/ Gustavo Pascual Falco
+
+Vino Griego 	/ arrgt : Ruiz Guillerme
+
+Funky Town 	...X....
+
+Thrift Shop 	/ Mackelmore &Ryan Lewis
+
+Canon 	/ Johann Pachebell
+
+Baba Yetu 	/ Christopher Tin 
+
+Russian Spectacular 	/ Trad./Arr. Frede Gin
+
+Blasmusik 	/ Guido Roelofs
+
+Florence et Florèle 	/ Francis Coiteux
+
+HighKand Rhapsody 	/ Jan Van des Rossy
+
+Takarajima 	/ Auteur Japonnais
+
+Three Celtic Dance 	/ Brian Balmages
+
+Bella Ciao 	/ Marc André
+
+Kustino Oro 	/ Jean Hamel
+
+Another Brick In the Wall 	/ Roger Waters
+
+We are The Champion 	/ Freddie Mercury
+
+Bohémian Rhapsody 	/ Freddie Mercury
+
+September 	/ Maurice White
+
+The Show Must Go On 	/ Freddie Mercury
+
+Smoke on the Water 	/ arrgt: Paul Murtha
+
+Strip Tease 	/ arrangée par / Olivier le Berr
+
+La ronde des petits pierrots 	/ Auguste Bosc
+
+Hit Parade 70: carnet variété française 	Divers
+
+Strangers in the night 	/ Bert Kaempfert arr: Harold Suilen
+
+My Way 	Chant entre autres par /Claude Francois
+
+Les succès d'hier (carnets 16 morceaux) 	Divers
+
+Vive le douanier Rousseau 	/ D. Vangarde / Arr. J Kuger
+
+Donne moi un Tibo/Ban moin en Tibo 	/ George Manfield
+
+What Now My Love 	/ Gilbert Becaud - argt Pascal Devroye
+
+Time to say Good Bye 	Chant entre autres par/  A. Bocelli et S.Brightman
+
+Stand by me 	/ Jerry LEIBER - Mike STOLLER
+
+Abba Gold 	/ ar: Ron Sebregts
+
+We are the Champions ( Queen) 	/ Freddie Mercury
+
+Stevie Wonder in concert 	/ Stevie Wonder;arr: Paul Murtha
+
+Soul Bossa Nova 	/ Quincy Jones arr: Thierry Muller
+
+Eviva Espana 	/ Léo Caerts Arr: R. Martin
+
+Pink Floyd Medley 	/ arrangement Robert Fienga
+
+Against All Odds 	/ Phil Collins
+
+Dance into the Light 	/ Phil Collins
+
+Easy Lover 	/ Phil Collins
+
+Happy Xmas (War is Over) 	/ John Lennon (Arr.Michael Brown)
+
+Tous les mêmes 	/ Stromae
+
+Papaoutai 	/ Stromae
+
+Champs Elysées (Les) 	/ Michael Wilshaw
+
+Fantasy Earth Wind and Fire 	/ E.Del Barrio, M. White, V. White
+
+Ma Préférence 	/ Julien Clerc Jean Loup Dabadie arr: Michel Brion 
+
+Ice Cream 	/ Johnson, King, Moll
+
+Tacot Rag 	/ Marcel CHAPUIS
+
+One, Two, Three... Jazzy ! 	/ Marcel Chapuis
+
+Madison USA (Medium Rock) 	/ Renato Salvi
+
+Tribute to Dixie 	/ Gilbert TINNER
+
+Au bord du Gange 	/ Francis Popy \*\*\*\* arrgt M. BAILLY
+
+Glasnost 	/ Dizzy Stratford
+
+Sing Sing Sing 	/ Louis Prima arr: Naohiro Iwai
+
+Louis Armstrong Medley 	/ arrangement : Naohiro Iwai
+
+Harry Potter 	/ John Williams
+
+Sérénade 	/ Derek Bourgeois
