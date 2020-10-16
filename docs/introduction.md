@@ -3,7 +3,7 @@ title: Présentation
 ---
 ![null](/docs/.vuepress/dist/logo-ohmj.jpg)
 
-## L’OHMJ en quelques mots par Joelle Hocberg Présidante
+## L’OHMJ en quelques mots par Joelle Hochberg Présidente
 
 ![null](/docs/.vuepress/dist/concert-ensemble.jpg)
 
