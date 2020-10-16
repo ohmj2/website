@@ -1,7 +1,11 @@
 ---
 title: Présentation
 ---
+![](/docs/.vuepress/dist/logo-ohmj.jpg)
+
 ## L’OHMJ en quelques mots par Joelle Hocberg Présidante
+
+![](/docs/.vuepress/dist/concert-ensemble.jpg)
 
 L'Orchestre d'Harmonie de Montpellier Jacou a fêté ses 27 ans en
  2020 ! ... et n’a pas l’intention de s’arrêter là !
@@ -24,9 +28,11 @@ Ouvert et dynamique, l'orchestre d'harmonie, avec ses deux
 
 L’Orchestre est une association régie par la loi 1901.
 
-# Direction musicale
+# Direction musicale      
 
-## Valéry Viné
+## Valéry Viné                                                                   
+
+![](/docs/.vuepress/dist/vinay.jpg)
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
@@ -51,6 +57,8 @@ Formé à la direction d’orchestre il mènera divers projets d’ensembles,
 
 ## Marie-Ange Thomassin
 
+![](/docs/.vuepress/dist/marie-ange.jpg)
+
 Musicienne passionnée et multi-instrumentiste (flûte traversière et
  basson), Marie-Ange débute l’apprentissage de la musique à 14 ans. Elle
  se forme à l’école de musique de sa ville située dans le département de
@@ -68,7 +76,9 @@ Titulaire d’une licence musicologie, obtenue à l’université Jean
 En parallèle , elle enseigne la flûte traversière dans différentes
  associations aindinoises et montpelliéraines.
 
-## Laurianne Vallée
+## Laurianne Vallée 
+
+![](/docs/.vuepress/dist/laurianne.jpg)
 
 Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études
 
@@ -79,7 +89,5 @@ Musicienne curieuse et éclectique, Laurianne découvre une variété de répert
 Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de stages animés par Florent Didier.Titulaire d’un DUMI obtenu au CFMI d’Orsay, elle a enseigné une dizaine d’année en région  parisienne. 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également 
-
-![]()
 
 intervenante artistique du dispositif “Démos” de la métropole de Montpellier
