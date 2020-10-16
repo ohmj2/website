@@ -80,9 +80,9 @@ Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses étud
 
  au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
 
-Musicienne curieuse et éclectique, Laurianne découvre une variété de répertoires en menant sa trompette ou son cornet dans différents ensembles : harmonie, big band,brass band ou musique de chambre. Elle s'est ainsi tissé un bagage musical auxnombreuses tonalités. 
+Musicienne curieuse et éclectique, Laurianne découvre une variété de répertoires en menant sa trompette ou son cornet dans différents ensembles : harmonie, big band, brass band ou musique de chambre. Elle s'est ainsi tissé un bagage musical aux nombreuses tonalités. 
 
-Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de stages animés par Florent Didier.Titulaire d’un DUMI obtenu au CFMI d’Orsay, elle a enseigné une dizaine d’année en région  parisienne. 
+Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de stages animés par Florent Didier. Titulaire d’un DUMI obtenu au CFMI d’Orsay, elle a enseigné une dizaine d’année en région  parisienne. 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également 
 
