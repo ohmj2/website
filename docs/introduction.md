@@ -1,38 +1,34 @@
 ---
 title: Présentation
 ---
-![](/docs/.vuepress/dist/logo-ohmj.jpg)
+![null](/docs/.vuepress/dist/logo-ohmj.jpg)
 
 ## L’OHMJ en quelques mots par Joelle Hocberg Présidante
 
-![](/docs/.vuepress/dist/concert-ensemble.jpg)
+![null](/docs/.vuepress/dist/concert-ensemble.jpg)
 
-L'Orchestre d'Harmonie de Montpellier Jacou a fêté ses 27 ans en
- 2020 ! ... et n’a pas l’intention de s’arrêter là !
+L'Orchestre d'Harmonie de Montpellier Jacou a fêté ses 27 ans en 2020 ! ... et n’a pas l’intention de s’arrêter là !
 
-Depuis sa création, il a vu grandir nombre de musiciennes et
- musiciens de tout âge et de toute nationalité. Cette diversité
- culturelle et le dynamisme bouillonnant de ses bénévoles sont les
- points forts de cette association, qui mêle une ambiance chaleureuse
- et des moments de partage musical de qualité !
+Depuis sa création, il a vu grandir nombre de musiciennes et musiciens de tout âge et de toute nationalité. Cette diversité culturelle et le dynamisme bouillonnant de ses bénévoles sont les points forts de cette association, qui mêle une ambiance chaleureuseet des moments de partage musical de qualité !
 
-Toujours en recherche de nouvelles idées pour faire voyager autant
- les musiciens que le public le temps d’un concert, l’Orchestre
- d’Harmonie de Montpellier Jacou se fédère autour d’un répertoire
- musical original et varié, allant de la musique classique à la pop, en
- passant par les musiques de film et la création d’œuvres originales.
+ Toujours en recherche de nouvelles idées pour faire voyager autant les musiciens que le public le temps d’un concert, l’Orchestre d’Harmonie de Montpellier Jacou se fédère autour d’un répertoire
+musical original et varié, allant de la musique classique à la pop, en passant par les musiques de film et la création d’œuvres originales.
 
-Ouvert et dynamique, l'orchestre d'harmonie, avec ses deux
- formations (junior et classique), accueille tous les musiciens
- quelque soit leur niveau le jeudi soir à Jacou !
+Ouvert et dynamique, l'orchestre d'harmonie, avec ses deux formations (junior et classique), accueille tous les musiciens quelque soit leur niveau le jeudi soir à Jacou !
 
-L’Orchestre est une association régie par la loi 1901.
+Grâce au  soutien constant  de la Mairie  de  Jacou, du Département  de l’Hérault et au produit des  ses activités l’association propose volontairement une cotisation à un niveau abordable afin de faciliter l'accès à l'orchestre, entre 10 et 35 euros selon la situation de l’adhérent.
 
-# Direction musicale      
+L'ensemble est aussi membre de la Confédération Musicale de France et chaque année il se développe et donne une dizaine de concerts par an.
 
-## Valéry Viné                                                                   
+![](/docs/.vuepress/dist/sponsor.jpg)
 
-![](/docs/.vuepress/dist/vinay.jpg)
+
+
+# Direction musicale
+
+## Valéry Viné
+
+![null](/docs/.vuepress/dist/vinay.jpg)
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
@@ -57,7 +53,7 @@ Formé à la direction d’orchestre il mènera divers projets d’ensembles,
 
 ## Marie-Ange Thomassin
 
-![](/docs/.vuepress/dist/marie-ange.jpg)
+![null](/docs/.vuepress/dist/marie-ange.jpg)
 
 Musicienne passionnée et multi-instrumentiste (flûte traversière et
  basson), Marie-Ange débute l’apprentissage de la musique à 14 ans. Elle
@@ -76,9 +72,9 @@ Titulaire d’une licence musicologie, obtenue à l’université Jean
 En parallèle , elle enseigne la flûte traversière dans différentes
  associations aindinoises et montpelliéraines.
 
-## Laurianne Vallée 
+## Laurianne Vallée
 
-![](/docs/.vuepress/dist/laurianne.jpg)
+![null](/docs/.vuepress/dist/laurianne.jpg)
 
 Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études
 
