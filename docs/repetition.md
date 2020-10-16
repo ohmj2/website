@@ -7,6 +7,6 @@ title: Rejoignez-nous
 
 ## _N'hésitez pas à venir nous voir le jeudi soir en répétition à la salle Prévert de Jacou !_
 
-![](/docs/.vuepress/dist/repetition.jpg)
+![null](/docs/.vuepress/dist/repetition.jpg)
 
-![](/docs/.vuepress/dist/flyer3.jpg)
+![null](/docs/.vuepress/dist/flyer3.jpg)
