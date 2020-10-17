@@ -7,28 +7,25 @@ title: Présentation
 
 ![null](/docs/.vuepress/dist/concert-ensemble.jpg)
 
-L'Orchestre d'Harmonie de Montpellier Jacou a fêté ses 27 ans en 2020 ! ... et n’a pas l’intention de s’arrêter là !
+L'**Orchestre d'Harmonie de Montpellier Jacou** a fêté ses 27 ans en 2020 ! ... et n’a pas l’intention de s’arrêter là !
 
 Depuis sa création, il a vu grandir nombre de musiciennes et musiciens de tout âge et de toute nationalité. Cette diversité culturelle et le dynamisme bouillonnant de ses bénévoles sont les points forts de cette association, qui mêle une ambiance chaleureuse et des moments de partage musical de qualité !
 
- Toujours en recherche de nouvelles idées pour faire voyager autant les musiciens que le public le temps d’un concert, l’Orchestre d’Harmonie de Montpellier Jacou se fédère autour d’un répertoire
-musical original et varié, allant de la musique classique à la pop, en passant par les musiques de film et la création d’œuvres originales.
+ Toujours en recherche de nouvelles idées pour faire voyager autant les musiciens que le public le temps d’un concert, l’**Orchestre d’Harmonie de Montpellier Jacou** se fédère autour d’un répertoire musical original et varié, allant de la musique classique à la pop, en passant par les musiques de film et la création d’œuvres originales.
 
-Ouvert et dynamique, l'orchestre d'harmonie, avec ses multiples formations : Harmonie, Jeune Harmonie, Ensemble de Flûtes et Petit Ensemble, accueille tous les musiciens quelque soit leur niveau !
+Ouvert et dynamique, l'**Orchestre d'Harmonie**, avec ses multiples formations : Harmonie, Jeune Harmonie, Ensemble de Flûtes et Petit Ensemble, accueille tous les musiciens quelque soit leur niveau .
 
-Grâce au  soutien constant  de la Mairie  de  Jacou, du Département  de l’Hérault et au produit des  ses activités l’association propose volontairement une cotisation à un niveau abordable afin de faciliter l'accès à l'orchestre, entre 10 et 35 euros selon la situation de l’adhérent.
+Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l’Hérault** et au produit des  ses activités l’association propose volontairement une cotisation à un niveau abordable afin de faciliter l'accès à l'orchestre, entre 10 et 35 euros selon la situation de l’adhérent.
 
-L'ensemble est aussi membre de la Confédération Musicale de France et chaque année il se développe et donne une dizaine de concerts par an.
+L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque année il se développe et donne une dizaine de concerts par an.
 
-![](/docs/.vuepress/dist/sponsor.jpg)
-
-
+![null](/docs/.vuepress/dist/partenaires.jpg)
 
 # Direction musicale
 
 ## Valéry Viné
 
-![null](/docs/.vuepress/dist/vinay.jpg)
+![](/docs/.vuepress/dist/valery1.jpg)
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
@@ -53,7 +50,7 @@ Formé à la direction d’orchestre il mènera divers projets d’ensembles,
 
 ## Marie-Ange Thomassin
 
-![null](/docs/.vuepress/dist/marie-ange.jpg)
+![null](/docs/.vuepress/dist/marie-ange1.jpg)
 
 Musicienne passionnée et multi-instrumentiste (flûte traversière et
  basson), Marie-Ange débute l’apprentissage de la musique à 14 ans. Elle
@@ -74,11 +71,9 @@ En parallèle , elle enseigne la flûte traversière dans différentes
 
 ## Laurianne Vallée
 
-![null](/docs/.vuepress/dist/laurianne.jpg)
+![null](/docs/.vuepress/dist/trompette.jpg)
 
-Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études
-
- au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
+Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
 
 Musicienne curieuse et éclectique, Laurianne découvre une variété de répertoires en menant sa trompette ou son cornet dans différents ensembles : harmonie, big band, brass band ou musique de chambre. Elle s'est ainsi tissé un bagage musical aux nombreuses tonalités. 
 
