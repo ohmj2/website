@@ -84,6 +84,4 @@ Musicienne curieuse et éclectique, Laurianne découvre une variété de répert
 
 Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de stages animés par Florent Didier. Titulaire d’un DUMI obtenu au CFMI d’Orsay, elle a enseigné une dizaine d’année en région  parisienne. 
 
-Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également 
-
-intervenante artistique du dispositif “Démos” de la métropole de Montpellier
+Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également intervenante artistique du dispositif “Démos” de la métropole de Montpellier
