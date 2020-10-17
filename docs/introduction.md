@@ -1,11 +1,11 @@
 ---
 title: Présentation
 ---
-![null](/docs/.vuepress/dist/logo-ohmj.jpg)
+![](/docs/.vuepress/dist/concert-1.jpg)
 
 ## L’OHMJ en quelques mots par Joëlle Hochberg Présidente
 
-![null](/docs/.vuepress/dist/concert-ensemble.jpg)
+![null](/docs/.vuepress/dist/indtrument.jpg)
 
 L'**Orchestre d'Harmonie de Montpellier Jacou** a fêté ses 27 ans en 2020 ! ... et n’a pas l’intention de s’arrêter là !
 
