@@ -11,11 +11,11 @@ mise  en  relation  entre  les  professionnels,  les  amateurs,  les  élèves  
 
 Au carrefour de la pédagogie et de la diffusion, l’**OHMJ** accompagnera de la c**horale du collège Pierre Mendès France de Jacou **pour son concert de printemps. Attention, le programme sera Rock .
 
-Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, [une vidéo dynamique](https://www.facebook.com/OHMJ34/videos/706696563425850/) pour continuer à mobiliser ses musiciens et rester proche de son public., puis par la suite, une adaptation des répétitions et des effectif . 
+Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, [une vidéo dynamique](https://www.facebook.com/OHMJ34/videos/706696563425850/) pour continuer à mobiliser ses musiciens et rester proche de son public., puis par la suite, une adaptation des répétitions et des effectifs . 
 
-![null](/docs/.vuepress/dist/cocert2.jpg)
+![null](/docs/.vuepress/dist/clip1.jpg)
 
-L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire, en témoigne sa  participation active aux cérémonies commémoratives et à la fête de la musique. Nous vous invitons donc à embarquer pour une aventure culturelle et musicale  avec  cette programmation  **2020-2021**, qui nou l’espérons va vous intriguer et même vous émerveiller.
+L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire, en témoigne sa  participation active aux cérémonies commémoratives et à la fête de la musique. Nous vous invitons donc à embarquer pour une aventure culturelle et musicale avec cette programmation  **2020-2021**, qui nous l’espérons va vous intriguer et même vous émerveiller.
 
 ## CONCERTS
 
@@ -34,7 +34,7 @@ L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire
 
 ## CÉRÉMONIES
 
-![](/docs/.vuepress/dist/ceremonie.jpg)
+![null](/docs/.vuepress/dist/ceremonie.jpg)
 
 * Vendredi 8 Mai 2019, Jacou et Castries
 
