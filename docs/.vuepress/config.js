@@ -25,7 +25,7 @@ module.exports = {
         nav: [
           { text: "Présentation", link: "/introduction" },
           { text: "Concerts", link: "/concerts" },
-          { text: "Repertoire", link: "/repertoire" },
+          { text: "Répertoire", link: "/repertoire" },
           { text: "Rejoignez-nous", link: "/rejoignez-nous" },
           
           { text: "Contacts", link: "/contacts" },
