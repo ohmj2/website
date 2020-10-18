@@ -26,7 +26,7 @@ module.exports = {
           { text: "Présentation", link: "/introduction" },
           { text: "Concerts", link: "/concerts" },
           { text: "Repertoire", link: "/repertoire" },
-          { text: "Répétition", link: "/repetition" },
+          { text: "Rejoignez-nous", link: "/rejoignez-nous" },
           
           { text: "Contacts", link: "/contacts" },
           { text: "Espace Musiciens", link: "http://ohmj2.free.fr/ohmj/" }
