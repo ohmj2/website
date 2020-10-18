@@ -17,21 +17,15 @@ L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire
 
 ## CONCERTS
 
-* 
-
 ![null](/images/clip1.jpg)
 
-* 
 
 ## VOYAGES MUSICAUX
 
-* 
-* 
 
 ## CÉRÉMONIES
 
 ![null](/images/ceremonie.jpg)
 
-* 
 
 D’autres événements sont susceptibles de  s’ajouter à cette liste en cours d’année.

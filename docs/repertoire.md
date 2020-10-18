@@ -27,4 +27,3 @@ En 27 années d'existence, l'Orchestre d'Harmonie de Montpellier-Jacou s'est con
 
 ## [ESPACE MUSICIEN ](http://ohmj2.free.fr/ohmj/index.php?page=scores)
 
-##
