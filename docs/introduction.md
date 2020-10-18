@@ -1,11 +1,11 @@
 ---
 title: Présentation
 ---
-![](/docs/.vuepress/dist/concert-1.jpg)
+![](/images/concert-1.jpg)
 
 ## L’OHMJ en quelques mots par Joëlle Hochberg Présidente
 
-![null](/docs/.vuepress/dist/indtrument.jpg)
+![null](/images/indtrument.jpg)
 
 L'**Orchestre d'Harmonie de Montpellier Jacou** a fêté ses 27 ans en 2020 ! ... et n’a pas l’intention de s’arrêter là !
 
@@ -19,13 +19,13 @@ Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l�
 
 L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque année il se développe et donne une dizaine de concerts par an.
 
-![null](/docs/.vuepress/dist/partenaires.jpg)
+![null](/images/partenaires.jpg)
 
 # Direction musicale
 
 ## Valéry Viné
 
-![](/docs/.vuepress/dist/valery1.jpg)
+![](/images/valery1.jpg)
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
@@ -50,7 +50,7 @@ Formé à la direction d’orchestre il mènera divers projets d’ensembles,
 
 ## Marie-Ange Thomassin
 
-![null](/docs/.vuepress/dist/marie-ange1.jpg)
+![null](/images/marie-ange1.jpg)
 
 Musicienne passionnée et multi-instrumentiste (flûte traversière et
  basson), Marie-Ange débute l’apprentissage de la musique à 14 ans. Elle
@@ -71,7 +71,7 @@ En parallèle , elle enseigne la flûte traversière dans différentes
 
 ## Laurianne Vallée
 
-![null](/docs/.vuepress/dist/trompette.jpg)
+![null](/images/trompette.jpg)
 
 Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
 
