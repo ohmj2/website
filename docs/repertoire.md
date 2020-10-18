@@ -1,7 +1,9 @@
 ---
 title: Répertoire
 ---
-En 27 années d'existence, l'Orchestre d'Harmonie de Montpellier-Jacou s'est constitué une partithèque de morceaux variés. Chaque année nous l'enrichissons d'une douzaine de morceaux nouveaux que nous déchiffrons dans la saison. 
+<div align="center">
+En 27 années d'existence, l'Orchestre d'Harmonie de Montpellier-Jacou s'est constitué une partithèque de morceaux variés. Chaque année nous l'enrichissons d'une douzaine de morceaux nouveaux que nous déchiffrons dans la saison.</div>
+
 
 ![null](/images/partitions.jpg)
 
