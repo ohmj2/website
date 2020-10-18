@@ -1,6 +1,6 @@
 ---
 home: true 
-heroImage: /images/ohmj.png
+heroImage: /images/logo-ohmj.jpg
 features:
 - title: 50 musiciens bénévoles
 - title: 30 répétitions
@@ -9,6 +9,6 @@ title: FRONT PAGE EN
 ---
 
 <p align="center">
-Un répertoire musical varié!
+Une démarche artistique autour d’un répertoire musicale varié
 </p>
 <Footer/>
