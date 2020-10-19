@@ -13,7 +13,7 @@ Depuis sa création, il a vu grandir nombre de musiciennes et musiciens de tout 
 
  Toujours en recherche de nouvelles idées pour faire voyager autant les musiciens que le public le temps d’un concert, l’**Orchestre d’Harmonie de Montpellier Jacou** se fédère autour d’un répertoire musical original et varié, allant de la musique classique à la pop, en passant par les musiques de film et la création d’œuvres originales.
 
-Ouvert et dynamique, l'**Orchestre d'Harmonie**, avec ses multiples formations : Harmonie, Jeune Harmonie, Ensemble de Flûtes et Petit Ensemble, accueille tous les musiciens quelque soit leur niveau .
+Ouverte et dynamique, l'**association**, avec ses multiples formations : Harmonie, Jeune Harmonie, Ensemble de Flûtes et Petit Ensemble, [accueille tous les musiciens quelque soit leur niveau](https://harmonie-jacou.fr/rejoignez-nous.html) .
 
 Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l’Hérault** et au produit des  ses activités l’association propose volontairement une cotisation à un niveau abordable afin de faciliter l'accès à l'orchestre, entre 10 et 35 euros selon la situation de l’adhérent.
 
@@ -21,7 +21,7 @@ L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque
 
 ![null](/docs/.vuepress/dist/partenaires.jpg)
 
-![](/docs/.vuepress/dist/direction-musicale.jpeg)
+![null](/docs/.vuepress/dist/direction-musicale.jpeg)
 
 # Direction musicale
 
