@@ -41,7 +41,7 @@ Titulaire d’une licence de Musicologie et du diplôme d’état de
  cornet à bouquin dans la classe de William Dongois au Conservatoire
  de Genève.
 
-Depuis juin 2017, coordinateur du projet Démos Montpellier Métropole
+Depuis juin 2017, il est coordinateur du projet Démos Montpellier Métropole
  (dispositif d’éducation musicale orchestrale à vocation sociale), après
  avoir été directeur adjoint du CRD du Boulonnais pendant 8 ans.
 
