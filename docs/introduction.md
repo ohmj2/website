@@ -19,9 +19,9 @@ Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l�
 
 L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque année il se développe et donne une dizaine de concerts par an.
 
-![null](/docs/.vuepress/dist/partenaires.jpg)
+![null](/images/partenaires.jpg)
 
-![null](/docs/.vuepress/dist/direction-musicale.jpeg)
+![null](/images/direction-musicale.jpeg)
 
 # Direction musicale
 
