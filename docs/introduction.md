@@ -21,6 +21,8 @@ L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque
 
 ![null](/docs/.vuepress/dist/partenaires.jpg)
 
+![](/docs/.vuepress/dist/direction-musicale.jpeg)
+
 # Direction musicale
 
 ## Valéry Viné
