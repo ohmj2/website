@@ -1,7 +1,7 @@
 ---
 title: Présentation
 ---
-![](/images/concert-1.jpg)
+![null](/images/concert-1.jpg)
 
 ## L’OHMJ en quelques mots par Joëlle Hochberg Présidente
 
@@ -19,13 +19,13 @@ Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l�
 
 L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque année il se développe et donne une dizaine de concerts par an.
 
-![null](/images/partenaires.jpg)
+![null](/docs/.vuepress/dist/partenaires.jpg)
 
 # Direction musicale
 
 ## Valéry Viné
 
-![](/images/valery1.jpg)
+![null](/images/valery1.jpg)
 
 Il débute ses études musicales dans sa ville natale de Saint Dié des
  Voges. Très vite il joue dans l’harmonie municipale et dans l’ensemble
