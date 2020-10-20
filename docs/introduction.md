@@ -127,7 +127,7 @@ Dans la **famille des percussions** :
 
 **Novembre 1998** : 5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
 
-Octobre 1999 : Adhésion à la Confédération Musicale de France.
+**Octobre 1999** : Adhésion à la Confédération Musicale de France.
 
 **Janvier 2000** : Stéphane GRULOIS est élu Président. C'est avec lui et son équipe que le choix de passer de la musique d'animation à la musique de concert est confirmé.
 
