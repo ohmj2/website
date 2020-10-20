@@ -149,21 +149,21 @@ Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de B
 
 **Décembre 2004** : sortie du CD des Comédies Musicales.
 
-**Juin 2004 **: Colette NADAL est élue à la Présidence.
+**Juin 2004** : Colette NADAL est élue à la Présidence.
 
 **Mai 2005** : participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
 
-**Mai 2006 **: participation au 2ème Festival musical amateur ascension organisé par l'Union Musicale de l'Hérault en compagnie du Big Band de la Grande Motte.
+**Mai 2006** :  participation au 2ème Festival musical amateur ascension organisé par l'Union Musicale de l'Hérault en compagnie du Big Band de la Grande Motte.
 
 **Mai 2007** : participation de l'orchestre au 19ème Printemps Musical en Pays Roannais, en compagnie de l'Ensemble Instrumental de Saint-André d'Apchon.
 
 **Juin 2008** : participation de l'orchestre au premier Festival Vents d'Oc à FOIX (09) en compagnie de l'International Wind Orchestra of BLUE LAKE (Etats-Unis) et de la Banda Municipale de LLEIDA (Espagne).
 
-**Septembre 2008 **: Sonia LESCENE prend la direction de l'orchestre.
+**Septembre 2008 **:  Sonia LESCENE prend la direction de l'orchestre.
 
-**Novembre 2009 **: participation au 1er concours d'Harmonie à la Grande Motte.
+**Novembre 2009** : participation au 1er concours d'Harmonie à la Grande Motte.
 
-**Septembre 2010 **: création et parution du premier numéro du "Canard de l'OHMJ"
+**Septembre 2010** :  création et parution du premier numéro du "Canard de l'OHMJ"
 
 **Octobre 2011** : Rodrick BARILLOT prend la direction de l'orchestre.
 
@@ -183,7 +183,7 @@ Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : **Harmonie de
 
 **Février 2015** : Joëlle Hochberg est élue à la Présidence.
 
-**Mai 2016** : participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concouru en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
+**Mai 2016** : participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
 
 **Septembre 2017** :Valéry VINE prend la direction de l'orchestre.
 
