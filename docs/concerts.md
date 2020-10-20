@@ -29,3 +29,13 @@ L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire
 \---
 
 _D’autres événements sont susceptibles de  s’ajouter à cette liste en cours d’année._
+
+
+
+![](/docs/.vuepress/dist/yves.jpg)
+
+**Vernissage "16 Musiciens de Jacou " Yves Saget** peintre et trompétiste vous présente les musiciens de l '**Orchestre d'harmonie de Montpellier Jacou **peints au pastel sec: trompettistes, saxophonistes, flûtistes, percussionnistes, clarinettistes, oboïstes. Sans diluant ni pinceau, les pastels secs permettent d'obtenir de jolis portraits, avec des parties estompée, le plus souvent au doigt. Cette technique est gratifiante, même pour les débutants. 
+
+[https://www.youtube.com/watch?v=S0EJhp6cH3g](<vous présente les musiciens de l 'Orchestre d'harmonie de Montpellier Jacou peints au pastel sec: trompettistes, saxophonistes, flûtistes, percussionnistes, clarinettistes, oboïstes. Sans diluant ni pinceau, les pastels secs permettent d'obtenir de jolis portraits, avec des parties estompée, le plus souvent au doigt. Cette technique est gratifiante, même pour les débutants. >)
+
+<https://www.youtube.com/watch?v=nI5FTbmBPv4>
