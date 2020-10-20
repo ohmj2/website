@@ -1,8 +1,7 @@
 ---
 title: Répertoire
 ---
-
-En 23 années d'existence, l'Harmonie de Jacou puis l'Orchestre d'Harmonie de Montpellier-Jacou s'est constitué une partithèque de morceaux variés, hors morceaux de cérémonie.
+En 23 années d'existence, l'**Harmonie de Jacou** puis l'**Orchestre d'Harmonie de Montpellier-Jacou** s'est constitué une partithèque de morceaux variés, hors morceaux de cérémonie.
 
  Chaque année nous enrichissons ce fond d'une douzaine de morceaux nouveaux que nous mettons en place dans la saison.
 
