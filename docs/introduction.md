@@ -83,9 +83,15 @@ Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également intervenante artistique du dispositif “Démos” de la métropole de Montpellier
 
-![null](/docs/.vuepress/dist/indtrument1.jpg)
+
 
 ## Présentation de l’harmonie
+
+
+
+![null](/docs/.vuepress/dist/indtrument1.jpg)
+
+## 
 
 L’**OHMJ**, association régie par la loi 1901, compte actuellement un cinquantaine de musiciens, sa moyenne d’âge est de 43 ans, la plus jeune musicienne étant âgé de 11 ans 
 
