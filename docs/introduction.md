@@ -171,11 +171,13 @@ Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de B
 
 **Novembre 2012** : participation au challenge d'Harmonie à la Palavas les Flots.
 
-Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : Harmonie de Montpellier-Jacou ; 3 ème : Harmonie de Servian (34).
+Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : **Harmonie de Montpellier-Jacou** ;
+
+ 3 ème : Harmonie de Servian (34).
 
 **Juin 2013** : participation au Festival entre terre et mer à Palavas les Flots.
 
-J**anvier 2014** : concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
+**Janvier 2014** : concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
 
 **Janvier 2014** : Pierre BORDES prend la direction de l'orchestre.
 
