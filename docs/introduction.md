@@ -83,7 +83,7 @@ Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également intervenante artistique du dispositif “Démos” de la métropole de Montpellier
 
-![](/docs/.vuepress/dist/concert-1.jpg)
+![null](/docs/.vuepress/dist/concert-1.jpg)
 
 ## Présentation de l’harmonie
 
