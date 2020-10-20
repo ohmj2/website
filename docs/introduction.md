@@ -73,7 +73,7 @@ En parallèle , elle enseigne la flûte traversière dans différentes
 
 ## Laurianne Vallée
 
-![null](/images/trompette.jpg)
+![null](/docs/.vuepress/dist/trompetiste.jpg)
 
 Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
 
@@ -83,11 +83,7 @@ Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également intervenante artistique du dispositif “Démos” de la métropole de Montpellier
 
-
-
 ## Présentation de l’harmonie
-
-
 
 ![null](/docs/.vuepress/dist/indtrument1.jpg)
 
@@ -116,12 +112,6 @@ La **famille des cuivres** est bien représentée avec :
 Dans la **famille des percussions** :
 
 \- 2 musiciens font résonner les nombreux instruments de l’harmonie
-
-
-
-
-
-
 
 ## L'O.H.M.J. en quelques dates :
 
