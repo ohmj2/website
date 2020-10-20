@@ -82,3 +82,31 @@ Musicienne curieuse et éclectique, Laurianne découvre une variété de répert
 Parallèlement, Laurianne se perfectionne à la direction d’orchestre lors de stages animés par Florent Didier. Titulaire d’un DUMI obtenu au CFMI d’Orsay, elle a enseigné une dizaine d’année en région  parisienne. 
 
 Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-Védas, d’éveil  musical  et FM au CRR de Montpellier, elle est également intervenante artistique du dispositif “Démos” de la métropole de Montpellier
+
+![](/docs/.vuepress/dist/concert-1.jpg)
+
+## Présentation de l’harmonie
+
+L’**OHMJ**, association régie par la loi 1901, compte actuellement un cinquantaine de musiciens, sa moyenne d’âge est de 43 ans, la plus jeune musicienne étant âgé de 11 ans 
+
+Dans la **famille des bois**, l’**OHMJ** compte :
+
+\- plusieurs flûtes traversières dont un piccolo, un hautbois et un basson
+
+\- 11 clarinettes en si bémol
+
+\- 6 saxophones : alto, ténor, baryton
+
+La **famille des cuivres** est bien représentée avec :
+
+\- 7 trompettes, cornets à pistons, bugles
+
+\- 2 cors
+
+\- 4 trombones à coulisse 
+
+\- 1 euphonium et 1 tuba
+
+Dans la **famille des percussions** :
+
+\- 2 musiciens font résonner les nombreux instruments de l’harmonie
