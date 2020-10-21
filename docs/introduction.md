@@ -115,80 +115,80 @@ Dans la ** famille des percussions** :
 
 ## L'O.H.M.J. en quelques dates :
 
-**Janvier 1993 : ** création de l'Harmonie de Jacou par Jean ROUQUAIROL et six amis musiciens. Jean ROUQUAIROL en est le Président et Bernard SPADI en devient le premier chef d'orchestre.
+**Janvier 1993 :** création de l'Harmonie de Jacou par Jean ROUQUAIROL et six amis musiciens. Jean ROUQUAIROL en est le Président et Bernard SPADI en devient le premier chef d'orchestre.
 
 **Avril et Mai 1993 :** 1ère prestation de la nouvelle harmonie, un défilé pour le Carnaval à Jacou et 1ère Cérémonie Officielle à Jacou.
 
-**Septembre 1994 : ** 1er Concert de Sainte-Cécile (privé, réservé à la famille et aux proches des musiciens) à Jacou.
+**Septembre 1994 :** 1er Concert de Sainte-Cécile (privé, réservé à la famille et aux proches des musiciens) à Jacou.
 
-**Avril 1995 : ** Frédéric SABATIER devient le second chef d'orchestre de l'harmonie de Jacou. L'harmonie donne de nombreux bals et soirées dansantes (jusqu'à une vingtaine de sorties par an). Elle assure également les Cérémonies Officielles à Jacou de façon régulière (trois fois par an au minimum).
+**Avril 1995 :** Frédéric SABATIER devient le second chef d'orchestre de l'harmonie de Jacou. L'harmonie donne de nombreux bals et soirées dansantes (jusqu'à une vingtaine de sorties par an). Elle assure également les Cérémonies Officielles à Jacou de façon régulière (trois fois par an au minimum).
 
-**Septembre 1998 : ** Sylvain ALBERTEAU en devient le troisième chef d'orchestre. C'est à partir de ce moment que s'amorce la transition de l'Orchestre vers un répertoire consacré à la musique d'harmonie en abandonnant progressivement la musique de danse.
+**Septembre 1998 :** Sylvain ALBERTEAU en devient le troisième chef d'orchestre. C'est à partir de ce moment que s'amorce la transition de l'Orchestre vers un répertoire consacré à la musique d'harmonie en abandonnant progressivement la musique de danse.
 
-**Novembre 1998 : **5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
+**Novembre 1998 :**5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
 
-**Octobre 1999 : ** Adhésion à la Confédération Musicale de France.
+**Octobre 1999 :** Adhésion à la Confédération Musicale de France.
 
-**Janvier 2000 : ** Stéphane GRULOIS est élu Président. C'est avec lui et son équipe que le choix de passer de la musique d'animation à la musique de concert est confirmé.
+**Janvier 2000 :** Stéphane GRULOIS est élu Président. C'est avec lui et son équipe que le choix de passer de la musique d'animation à la musique de concert est confirmé.
 
 **Septembre 2000 :** L'Harmonie de Jacou devient l'Orchestre d'Harmonie de Montpellier- Jacou et participe à sa première foire aux associations à Montpellier sous ce nom.
 
 **Janvier - Juin 2001 :** 1ère saison complète de concerts en salle pour l'O.H.M.J.
 
-**Octobre 2001 : ** 1er Concert à La Foire Internationale de Montpellier à l'invitation de la Communauté d'Agglomération.
+**Octobre 2001 :** 1er Concert à La Foire Internationale de Montpellier à l'invitation de la Communauté d'Agglomération.
 
-**Novembre 2001 : ** un 8ème concert de Sainte-Cécile à Jacou en commun avec la chorale "La Ribeyrolle" de Jacou.
+**Novembre 2001 :** un 8ème concert de Sainte-Cécile à Jacou en commun avec la chorale "La Ribeyrolle" de Jacou.
 
 **Décembre 2001 :** Sortie du premier CD de l'O.H.M.J. : "Compilation des concerts 2001".
 
-**Février et Mars 2002 : ** L'O.H.M.J. s'exporte : dans le Gard d'abord, en Haute-Savoie ensuite.
+**Février et Mars 2002 :** L'O.H.M.J. s'exporte : dans le Gard d'abord, en Haute-Savoie ensuite.
 
-**Juin 2003 : ** Magalie BAILLY prend la direction de l'orchestre.
+**Juin 2003 :** Magalie BAILLY prend la direction de l'orchestre.
 
 Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de BRIGNAIS TARARE ET QUINCIEUX, huit concerts ont été organisés.
 
-**Décembre 2004 : ** sortie du CD des Comédies Musicales.
+**Décembre 2004 :** sortie du CD des Comédies Musicales.
 
-**Juin 2004 : ** Colette NADAL est élue à la Présidence.
+**Juin 2004 :** Colette NADAL est élue à la Présidence.
 
-**Mai 2005 : ** participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
+**Mai 2005 :** participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
 
-**Mai 2006 : ** participation au 2ème Festival musical amateur ascension organisé par l'Union Musicale de l'Hérault en compagnie du Big Band de la Grande Motte.
+**Mai 2006 :** participation au 2ème Festival musical amateur ascension organisé par l'Union Musicale de l'Hérault en compagnie du Big Band de la Grande Motte.
 
-**Mai 2007 : ** participation de l'orchestre au 19ème Printemps Musical en Pays Roannais, en compagnie de l'Ensemble Instrumental de Saint-André d'Apchon.
+**Mai 2007 :** participation de l'orchestre au 19ème Printemps Musical en Pays Roannais, en compagnie de l'Ensemble Instrumental de Saint-André d'Apchon.
 
 **Juin 2008 :** participation de l'orchestre au premier Festival Vents d'Oc à FOIX (09) en compagnie de l'International Wind Orchestra of BLUE LAKE (Etats-Unis) et de la Banda Municipale de LLEIDA (Espagne).
 
-**Septembre 2008 : ** Sonia LESCENE prend la direction de l'orchestre.
+**Septembre 2008 :** Sonia LESCENE prend la direction de l'orchestre.
 
 **Novembre 2009 :** participation au 1er concours d'Harmonie à la Grande Motte.
 
 **Septembre 2010 :**  création et parution du premier numéro du "Canard de l'OHMJ"
 
-**Octobre 2011 : ** Rodrick BARILLOT prend la direction de l'orchestre.
+**Octobre 2011 :** Rodrick BARILLOT prend la direction de l'orchestre.
 
-**Mai 2012 : ** échange avec l'harmonie Bédaricienne des Hauts Cantons.
+**Mai 2012 :** échange avec l'harmonie Bédaricienne des Hauts Cantons.
 
-**Novembre 2012 : ** participation au challenge d'Harmonie à la Palavas les Flots.
+**Novembre 2012 :** participation au challenge d'Harmonie à la Palavas les Flots.
 
 Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : Harmonie de Montpellier-Jacou ; 3 ème : Harmonie de Servian (34).
 
-**Juin 2013 : ** participation au Festival entre terre et mer à Palavas les Flots.
+**Juin 2013 :** participation au Festival entre terre et mer à Palavas les Flots.
 
-**Janvier 2014 : ** Concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
+**Janvier 2014 :** Concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
 
-**Janvier 2014 : ** Pierre BORDES prend la direction de l'orchestre.
+**Janvier 2014 :** Pierre BORDES prend la direction de l'orchestre.
 
-**Février 2015 : ** Joëlle Hochberg est élue à la Présidence.
+**Février 2015 :** Joëlle Hochberg est élue à la Présidence.
 
-**Mai 2016 : **Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
+**Mai 2016 :**Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
 
 **Septembre 2017 :** Valéry VINE prend la direction de l'orchestre.
 
 **Novembre 2018 :** Trois concerts ont été organisés le 9 à Cournonterral, le 10 à Mèze et le 11 novembre à Saint-André-de-Sangonis, dans le cadre des commémorations du centenaire de l'armistice de 1918. Ils ont réuni près de 250 musiciens amateurs de dix écoles de musique et harmonies de l'Hérault à l'initiative de l'école de musique intercommunale de la Vallée de l'Hérault. 
 
-**Decembre 2018 : **Concert avec Harmonie de Macon
+**Decembre 2018 :**Concert avec Harmonie de Macon
 
-**Décembre 2019 : **Concert Ste cécile
+**Décembre 2019 :**Concert Ste cécile
 
 **2020 :**
