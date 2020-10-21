@@ -181,14 +181,14 @@ Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : Harmonie de M
 
 **Février 2015 : ** Joëlle Hochberg est élue à la Présidence.
 
-Mai 2016 :Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
+**Mai 2016 : **Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
 
-Septembre 2017 : Valéry VINE prend la direction de l'orchestre.
+**Septembre 2017 :** Valéry VINE prend la direction de l'orchestre.
 
-Novembre 2018 : Trois concerts ont été organisés le 9 à Cournonterral, le 10 à Mèze et le 11 novembre à Saint-André-de-Sangonis, dans le cadre des commémorations du centenaire de l'armistice de 1918. Ils ont réuni près de 250 musiciens amateurs de dix écoles de musique et harmonies de l'Hérault à l'initiative de l'école de musique intercommunale de la Vallée de l'Hérault. 
+**Novembre 2018 :** Trois concerts ont été organisés le 9 à Cournonterral, le 10 à Mèze et le 11 novembre à Saint-André-de-Sangonis, dans le cadre des commémorations du centenaire de l'armistice de 1918. Ils ont réuni près de 250 musiciens amateurs de dix écoles de musique et harmonies de l'Hérault à l'initiative de l'école de musique intercommunale de la Vallée de l'Hérault. 
 
-Decembre 2018 :Concert avec Harmonie de Macon
+**Decembre 2018 : **Concert avec Harmonie de Macon
 
-Décembre 2019 : Concert Ste cécile
+**Décembre 2019 : **Concert Ste cécile
 
-2020 :
+**2020 :**
