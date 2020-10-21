@@ -48,5 +48,3 @@ des **morceaux pour les cérémonies**
 ![null](/images/repertoire9.jpg)
 
 ## [ESPACE MUSICIEN ](http://ohmj2.free.fr/ohmj/index.php?page=scores)
-
-![null](/images/partenaires.tiff)
