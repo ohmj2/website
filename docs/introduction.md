@@ -109,47 +109,47 @@ La **famille des cuivres** est bien représentée avec :
 
 \- 1 euphonium et 1 tuba
 
-Dans la **famille des percussions** :
+Dans la ** famille des percussions** :
 
 \- 2 musiciens font résonner les nombreux instruments de l’harmonie
 
 ## L'O.H.M.J. en quelques dates :
 
-**Janvier 1993 : **création de l'Harmonie de Jacou par Jean ROUQUAIROL et six amis musiciens. Jean ROUQUAIROL en est le Président et Bernard SPADI en devient le premier chef d'orchestre.
+**Janvier 1993 : ** création de l'Harmonie de Jacou par Jean ROUQUAIROL et six amis musiciens. Jean ROUQUAIROL en est le Président et Bernard SPADI en devient le premier chef d'orchestre.
 
 **Avril et Mai 1993 :** 1ère prestation de la nouvelle harmonie, un défilé pour le Carnaval à Jacou et 1ère Cérémonie Officielle à Jacou.
 
-**Septembre 1994 : **1er Concert de Sainte-Cécile (privé, réservé à la famille et aux proches des musiciens) à Jacou.
+**Septembre 1994 : ** 1er Concert de Sainte-Cécile (privé, réservé à la famille et aux proches des musiciens) à Jacou.
 
-**Avril 1995 : **Frédéric SABATIER devient le second chef d'orchestre de l'harmonie de Jacou. L'harmonie donne de nombreux bals et soirées dansantes (jusqu'à une vingtaine de sorties par an). Elle assure également les Cérémonies Officielles à Jacou de façon régulière (trois fois par an au minimum).
+**Avril 1995 : ** Frédéric SABATIER devient le second chef d'orchestre de l'harmonie de Jacou. L'harmonie donne de nombreux bals et soirées dansantes (jusqu'à une vingtaine de sorties par an). Elle assure également les Cérémonies Officielles à Jacou de façon régulière (trois fois par an au minimum).
 
-**Septembre 1998 : **Sylvain ALBERTEAU en devient le troisième chef d'orchestre. C'est à partir de ce moment que s'amorce la transition de l'Orchestre vers un répertoire consacré à la musique d'harmonie en abandonnant progressivement la musique de danse.
+**Septembre 1998 : ** Sylvain ALBERTEAU en devient le troisième chef d'orchestre. C'est à partir de ce moment que s'amorce la transition de l'Orchestre vers un répertoire consacré à la musique d'harmonie en abandonnant progressivement la musique de danse.
 
 **Novembre 1998 : **5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
 
-**Octobre 1999 : **Adhésion à la Confédération Musicale de France.
+**Octobre 1999 : ** Adhésion à la Confédération Musicale de France.
 
-**Janvier 2000 : **Stéphane GRULOIS est élu Président. C'est avec lui et son équipe que le choix de passer de la musique d'animation à la musique de concert est confirmé.
+**Janvier 2000 : ** Stéphane GRULOIS est élu Président. C'est avec lui et son équipe que le choix de passer de la musique d'animation à la musique de concert est confirmé.
 
 **Septembre 2000 :** L'Harmonie de Jacou devient l'Orchestre d'Harmonie de Montpellier- Jacou et participe à sa première foire aux associations à Montpellier sous ce nom.
 
 **Janvier - Juin 2001 :** 1ère saison complète de concerts en salle pour l'O.H.M.J.
 
-**Octobre 2001 : **1er Concert à La Foire Internationale de Montpellier à l'invitation de la Communauté d'Agglomération.
+**Octobre 2001 : ** 1er Concert à La Foire Internationale de Montpellier à l'invitation de la Communauté d'Agglomération.
 
-**Novembre 2001 : **un 8ème concert de Sainte-Cécile à Jacou en commun avec la chorale "La Ribeyrolle" de Jacou.
+**Novembre 2001 : ** un 8ème concert de Sainte-Cécile à Jacou en commun avec la chorale "La Ribeyrolle" de Jacou.
 
 **Décembre 2001 :** Sortie du premier CD de l'O.H.M.J. : "Compilation des concerts 2001".
 
 **Février et Mars 2002 : **L'O.H.M.J. s'exporte : dans le Gard d'abord, en Haute-Savoie ensuite.
 
-**Juin 2003 : **Magalie BAILLY prend la direction de l'orchestre.
+**Juin 2003 : ** Magalie BAILLY prend la direction de l'orchestre.
 
 Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de BRIGNAIS TARARE ET QUINCIEUX, huit concerts ont été organisés.
 
-**Décembre 2004 : **sortie du CD des Comédies Musicales.
+**Décembre 2004 : ** sortie du CD des Comédies Musicales.
 
-**Juin 2004 : **Colette NADAL est élue à la Présidence.
+**Juin 2004 : ** Colette NADAL est élue à la Présidence.
 
 **Mai 2005 : **participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
 
