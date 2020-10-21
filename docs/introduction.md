@@ -19,7 +19,7 @@ Grâce au  soutien constant  de la **Mairie de Jacou**, du **Département de l�
 
 L'ensemble est aussi membre de la **Confédération Musicale de France**; chaque année il se développe et donne une dizaine de concerts par an.
 
-![null](/images/partenaires.jpg)
+![null](/images/sponsor.jpg)
 
 ![null](/images/direction-musicale.jpeg)
 
