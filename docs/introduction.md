@@ -141,7 +141,7 @@ Dans la ** famille des percussions** :
 
 **Décembre 2001 :** Sortie du premier CD de l'O.H.M.J. : "Compilation des concerts 2001".
 
-**Février et Mars 2002 : **L'O.H.M.J. s'exporte : dans le Gard d'abord, en Haute-Savoie ensuite.
+**Février et Mars 2002 : ** L'O.H.M.J. s'exporte : dans le Gard d'abord, en Haute-Savoie ensuite.
 
 **Juin 2003 : ** Magalie BAILLY prend la direction de l'orchestre.
 
@@ -151,11 +151,11 @@ Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de B
 
 **Juin 2004 : ** Colette NADAL est élue à la Présidence.
 
-**Mai 2005 : **participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
+**Mai 2005 : ** participation au 1er Festival musical amateur ascension, organisé par l'Union Musicale de l'Hérault, en compagnie de la Batterie Fanfare de l'Etoile Bleue et de l'Harmonie de Lansargues.
 
 **Mai 2006 : ** participation au 2ème Festival musical amateur ascension organisé par l'Union Musicale de l'Hérault en compagnie du Big Band de la Grande Motte.
 
-**Mai 2007 : **participation de l'orchestre au 19ème Printemps Musical en Pays Roannais, en compagnie de l'Ensemble Instrumental de Saint-André d'Apchon.
+**Mai 2007 : ** participation de l'orchestre au 19ème Printemps Musical en Pays Roannais, en compagnie de l'Ensemble Instrumental de Saint-André d'Apchon.
 
 **Juin 2008 :** participation de l'orchestre au premier Festival Vents d'Oc à FOIX (09) en compagnie de l'International Wind Orchestra of BLUE LAKE (Etats-Unis) et de la Banda Municipale de LLEIDA (Espagne).
 
@@ -165,30 +165,30 @@ Dans le cadre des Comédies Musicales et du regroupement avec les harmonies de B
 
 **Septembre 2010 :**  création et parution du premier numéro du "Canard de l'OHMJ"
 
-**Octobre 2011 : **Rodrick BARILLOT prend la direction de l'orchestre.
+**Octobre 2011 : ** Rodrick BARILLOT prend la direction de l'orchestre.
 
-**Mai 2012 : **échange avec l'harmonie Bédaricienne des Hauts Cantons.
+**Mai 2012 : ** échange avec l'harmonie Bédaricienne des Hauts Cantons.
 
-**Novembre 2012 : **participation au challenge d'Harmonie à la Palavas les Flots.
+**Novembre 2012 : ** participation au challenge d'Harmonie à la Palavas les Flots.
 
 Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : Harmonie de Montpellier-Jacou ; 3 ème : Harmonie de Servian (34).
 
-**Juin 2013 : **participation au Festival entre terre et mer à Palavas les Flots.
+**Juin 2013 : ** participation au Festival entre terre et mer à Palavas les Flots.
 
-**Janvier 2014 : **concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
+**Janvier 2014 : ** Concert à l'Opéra Comédie à Montpellier au profit des pupilles orphelins des Sapeurs Pompiers de France.
 
-**Janvier 2014 : **Pierre BORDES prend la direction de l'orchestre.
+**Janvier 2014 : ** Pierre BORDES prend la direction de l'orchestre.
 
-**Février 2015 : **Joëlle Hochberg est élue à la Présidence.
+**Février 2015 : ** Joëlle Hochberg est élue à la Présidence.
 
-**Mai 2016 : **participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
+**Mai 2016 : ** Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
 
-**Septembre 2017 :**Valéry VINE prend la direction de l'orchestre.
+**Septembre 2017 :** Valéry VINE prend la direction de l'orchestre.
 
 **Novembre 2018** : Trois concerts ont été organisés le 9 à Cournonterral, le 10 à Mèze et le 11 novembre à Saint-André-de-Sangonis, dans le cadre des commémorations du centenaire de l'armistice de 1918. Ils ont réuni près de 250 musiciens amateurs de dix écoles de musique et harmonies de l'Hérault à l'initiative de l'école de musique intercommunale de la Vallée de l'Hérault. 
 
 **Decembre 2018 :** Concert avec Harmonie de Macon
 
-**Décembre 2019 : **Concert Ste cécile
+**Décembre 2019 : ** Concert Ste cécile
 
 **2020** :
