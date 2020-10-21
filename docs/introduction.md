@@ -73,7 +73,7 @@ En parallèle , elle enseigne la flûte traversière dans différentes
 
 ## Laurianne Vallée
 
-![null](/docs/.vuepress/dist/trompetiste.jpg)
+![null](/images/trompetiste.jpg)
 
 Originaire de Bretagne où elle débute la musique, Laurianne poursuit ses études au CRD de Clamart et au conservatoire d'Issy les Moulineaux pour l’obtention d’un CEM de trompette et un prix de formation musicale.
 
