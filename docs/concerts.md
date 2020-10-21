@@ -15,7 +15,7 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
 ## L'AGENDA 2020/2021
 
-![null](/docs/.vuepress/dist/agenda.jpg)
+![null](/immages/agenda.jpg)
 
 ## _hélas compromis par la Covid_
 
