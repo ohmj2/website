@@ -11,31 +11,45 @@ Au carrefour de la pédagogie et de la diffusion, l’**OHMJ** accompagnera de l
 
 Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, [une vidéo dynamique](https://www.facebook.com/OHMJ34/videos/lohmj-joue-september/706696563425850/) pour continuer à mobiliser ses musiciens et rester proche de son public, puis par la suite, une adaptation des répétitions et des effectifs. 
 
-## CONCERTS
-
 ![null](/images/clip1.jpg)
 
-## VOYAGES MUSICAUX
+## AGENDA 2020/2021 
 
-## CÉRÉMONIES
+## _hélas compromis par la Covid_
 
-L**’OHMJ** c’est toujours la culture des traditions et du devoir de mémoire, en témoigne sa  participation active aux cérémonies commémoratives et à la fête de la musique. Nous vous invitons donc à embarquer pour une aventure culturelle et musicale avec cette programmation  **2020-2021**, qui nous l’espérons va vous intriguer et même vous émerveiller.
+**2020**
 
-![null](/images/ceremonie.jpg)
+• Samedi 3 octobre : [Vernissage musical de l’exposition des peintures d’Yves Saget](https://www.youtube.com/watch?v=S0EJhp6cH3g), Jacou
+
+ • Mercredi  11 novembre : Cérémonies officielles, Jacou et Castries.
+
+ • Samedi 5 décembre :  Concert de la Sainte Cécile l’ensemble de saxophones du CRR, Jacou
+
+** 2021**
+
+ • Samedi 30 janvier :  Concert à Castries
+
+ • Dimanche 7 février : Concert des ensembles de Mélimusic, Ensemble de flûtes, Murles
+
+ • Dimanche 21 mars : Concert de printemps avec la chorale du collège de Jacou
+
+• Samedi 8 mai : Cérémonies officielles, Castries et Jacou
+
+ • Weekend 22 /23 mai : Concert au Théâtre « El Zocalo », Barcelonette (04)
+
+ • Dimanche 30 mai : Concert de l’Ensemble de flûtes, Montferrier
+
+ • Dimanche 13 juin :  Concert de l’Ensemble de flûtes, Clapiers
+
+ • Lundi 21 juin : Fête de la musique, Jacou
+
+
+
+## 
+
+![Cérémonie à Jacou](/images/ceremonie.jpg)
 
 * 11 novembre
 * 8 mai
 
 \---
-
-_D’autres événements sont susceptibles de  s’ajouter à cette liste en cours d’année._
-
-
-
-![](/docs/.vuepress/dist/yves.jpg)
-
-**Vernissage "16 Musiciens de Jacou " Yves Saget** peintre et trompétiste vous présente les musiciens de l '**Orchestre d'harmonie de Montpellier Jacou **peints au pastel sec: trompettistes, saxophonistes, flûtistes, percussionnistes, clarinettistes, oboïstes. Sans diluant ni pinceau, les pastels secs permettent d'obtenir de jolis portraits, avec des parties estompée, le plus souvent au doigt. Cette technique est gratifiante, même pour les débutants. 
-
-[https://www.youtube.com/watch?v=S0EJhp6cH3g](<vous présente les musiciens de l 'Orchestre d'harmonie de Montpellier Jacou peints au pastel sec: trompettistes, saxophonistes, flûtistes, percussionnistes, clarinettistes, oboïstes. Sans diluant ni pinceau, les pastels secs permettent d'obtenir de jolis portraits, avec des parties estompée, le plus souvent au doigt. Cette technique est gratifiante, même pour les débutants. >)
-
-<https://www.youtube.com/watch?v=nI5FTbmBPv4>
