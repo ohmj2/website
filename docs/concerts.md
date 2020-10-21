@@ -15,7 +15,7 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
 ## L'AGENDA 2020/2021
 
-![null](/images/agenda.jpg)
+![null](/docs/.vuepress/dist/agenda.jpg)
 
 ## _hélas compromis par la Covid_
 
@@ -38,8 +38,6 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 • Samedi 8 mai : Cérémonies officielles, Castries et Jacou
 
 ![Cérémonie à Jacou](/images/ceremonie.jpg)
-
- 
 
  • Weekend 22 /23 mai : Concert au Théâtre « El Zocalo », Barcelonette (04)
 
