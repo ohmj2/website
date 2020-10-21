@@ -7,7 +7,7 @@ Chaque  saison  de  l’**Orchestre  d’Harmonie  de  Montpellier-Jacou**  offr
 
 L’**OHMJ** s’attachera ainsi à animer le territoire en renforçant son rôle d’incubateur de projets et de mise  en  relation  entre  les  professionnels,  les  amateurs,  les  élèves  et  le  public.  En  effet,  pour  la troisième année consécutive, l’**OHMJ** partagera la scène lors de sa fête de **Sainte Cécile** avec, cette fois, l’**ensemble de saxophones du conservatoire** à rayonnement régional de Montpellier.
 
-Au carrefour de la pédagogie et de la diffusion, l’**OHMJ** accompagnera de la c**horale du collège Pierre Mendès France de Jacou **pour son concert de printemps. Attention, le programme sera Rock !
+Au carrefour de la pédagogie et de la diffusion, l’**OHMJ** accompagnera de la **chorale du collège Pierre Mendès France de Jacou** pour son concert de printemps. Attention, le programme sera Rock !
 
 Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un échange avec l’**Harmonie  de Barcelonnette **qui la conviera avant l’été dans son  théâtre « **El Zocalo** ». Cette invitation, initialement prévue au  printemps  2020, a  du être  reprogrammé  du  fait  de la  situation  sanitaire.  Les mesures  de distanciation ont d’ailleurs poussé notre orchestre à s’adapter à cette nouvelle  réalité, en proposant tout d’abord, pendant le confinement, [une vidéo dynamique](https://www.facebook.com/OHMJ34/videos/lohmj-joue-september/706696563425850/) pour continuer à mobiliser ses musiciens et rester proche de son public, puis par la suite, une adaptation des répétitions et des effectifs. 
 
@@ -27,7 +27,7 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
  • Samedi 5 décembre :  Concert de la Sainte Cécile l’ensemble de saxophones du CRR, Jacou
 
-** 2021**
+**2021**
 
  • Samedi 30 janvier :  Concert à Castries
 
