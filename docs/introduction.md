@@ -109,7 +109,7 @@ La **famille des cuivres** est bien représentée avec :
 
 \- 1 euphonium et 1 tuba
 
-Dans la ** famille des percussions** :
+Dans la ** famille des percussions ** :
 
 \- 2 musiciens font résonner les nombreux instruments de l’harmonie
 
@@ -125,7 +125,7 @@ Dans la ** famille des percussions** :
 
 **Septembre 1998 :** Sylvain ALBERTEAU en devient le troisième chef d'orchestre. C'est à partir de ce moment que s'amorce la transition de l'Orchestre vers un répertoire consacré à la musique d'harmonie en abandonnant progressivement la musique de danse.
 
-**Novembre 1998 : **5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
+**Novembre 1998 :** 5ème Concert de Sainte-Cécile à Jacou, le 1er ouvert au public.
 
 **Octobre 1999 :** Adhésion à la Confédération Musicale de France.
 
@@ -181,14 +181,14 @@ Résultat du challenge : 1ère : Harmonie de Limoux (11) ; 2ème : Harmonie de M
 
 **Février 2015 :** Joëlle Hochberg est élue à la Présidence.
 
-**Mai 2016 : **Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
+**Mai 2016 :** Participation au Concours C.M.F. à Macon le dimanche 22 mai 2016 . A concours en catégorie : Harmonie 1ère Division. A obtenu le 2ème prix avec la note de 15,8.
 
 **Septembre 2017 :** Valéry VINE prend la direction de l'orchestre.
 
 **Novembre 2018 :** Trois concerts ont été organisés le 9 à Cournonterral, le 10 à Mèze et le 11 novembre à Saint-André-de-Sangonis, dans le cadre des commémorations du centenaire de l'armistice de 1918. Ils ont réuni près de 250 musiciens amateurs de dix écoles de musique et harmonies de l'Hérault à l'initiative de l'école de musique intercommunale de la Vallée de l'Hérault. 
 
-**Decembre 2018 : **Concert avec Harmonie de Macon
+**Decembre 2018 :** Concert avec Harmonie de Macon
 
-**Décembre 2019 : **Concert Ste cécile
+**Décembre 2019 :** Concert Ste cécile
 
 **2020 :**
