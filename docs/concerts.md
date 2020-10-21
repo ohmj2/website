@@ -37,18 +37,14 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
 • Samedi 8 mai : Cérémonies officielles, Castries et Jacou
 
+![Cérémonie à Jacou](/images/ceremonie.jpg)
+
+ 
+
  • Weekend 22 /23 mai : Concert au Théâtre « El Zocalo », Barcelonette (04)
 
  • Dimanche 30 mai : Concert de l’Ensemble de flûtes, Montferrier
 
  • Dimanche 13 juin :  Concert de l’Ensemble de flûtes, Clapiers
 
- • Lundi 21 juin : Fête de la musique, Jacou
-
-## 
-
-![Cérémonie à Jacou](/images/ceremonie.jpg)
-
-* Cérémonies à Jacou les 8 mai et 11 novembre
-
-\---
+ • Lundi 21 juin : Fête de la musique, Jacou-
