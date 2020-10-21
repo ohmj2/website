@@ -85,7 +85,7 @@ Actuellement  professeur  de trompette à l’école de musique de St-Jean-de-V�
 
 ## Présentation de l’harmonie
 
-![null](/docs/.vuepress/dist/indtrument1.jpg)
+![null](/images/indtrument1.jpg)
 
 ## 
 
