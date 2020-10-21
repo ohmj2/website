@@ -13,7 +13,9 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
 ![null](/images/clip1.jpg)
 
-## AGENDA 2020/2021 
+## L'AGENDA 2020/2021
+
+![](/images/agenda.jpg)
 
 ## _hélas compromis par la Covid_
 
@@ -43,13 +45,10 @@ Dans un autre  registre, l’**OHMJ**  exportera son talent dans le cadre d’un
 
  • Lundi 21 juin : Fête de la musique, Jacou
 
-
-
 ## 
 
 ![Cérémonie à Jacou](/images/ceremonie.jpg)
 
-* 11 novembre
-* 8 mai
+* Cérémonies à Jacou les 8 mai et 11 novembre
 
 \---
